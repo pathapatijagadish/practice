@@ -85,8 +85,8 @@ input[type="text"], textarea {
 
 .imgrow .info-block {
 	display: inline-block;
+	background-color: grey;
 	background: #b4d3f2;
-	background-color: gray
 	padding: 5px 2%;
 	width: 95%;
 	color: coral;
