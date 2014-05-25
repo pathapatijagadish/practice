@@ -7,6 +7,24 @@ body {
   
 }
 
+.outer_image {
+  background-image: url(image-path('/assets/body-bg3.jpg'));
+  border: 2px solid red;
+  padding: 25px;
+}
+
+.new_edit_form {
+  background-color: grey;
+  border-color: lightgrey;
+  padding:13px 22px;
+  background-image: url(image-path('/assets/body-bg12.jpg'));
+  background-size: 100% 100%;
+  border: 1px solid gray;
+  border-radius: 2px 30px 2px 30px;
+  width: 60%;
+  margin: auto;
+}
+
 p, ol, ul, td {
   font-family: verdana, arial, helvetica, sans-serif;
   font-size: 13px;

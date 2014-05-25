@@ -18,18 +18,17 @@ input[type="text"], textarea {
 	color: rgb(237, 237, 240);
 }
 
-.new_edit_form {
+/*.new_edit_form {
 	background-color: grey;
 	border-color: lightgrey;
 	padding:13px 22px;
-	/*margin:25px 50px 75px 100px;*/
 	background: url(/assets/body-bg12.jpg) no-repeat;
 	background-size: 100% 100%;
 	border: 1px solid gray;
 	border-radius: 2px 30px 2px 30px;
 	width: 60%;
 	margin: auto;
-}
+}*/
 .index {
  	/*background-color:rgba(102, 141, 127, 1);*/
  	border-color: lightgrey;
@@ -77,12 +76,12 @@ input[type="text"], textarea {
 	border-radius: 0px 0px 0px 0px;
 	border: 1px solid lightblue;
 }
-
+/*
 .outer_image{
 	padding: 25px;
-	background: url(/assets/body-bg2.jpg);
+	background-image: image-url("/assets/body-bg2.jpg");
 }
-
+*/
 .imgrow .info-block {
 	display: inline-block;
 	background-color: grey;
